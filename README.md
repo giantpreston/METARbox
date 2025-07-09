@@ -6,6 +6,16 @@ Designed to be simple, educational, and reliable — just upload and it works.
 
 ---
 
+### Creator’s Note 🛠️
+
+> **This project has been a labor of love and frustration.** After spending over 72 hours troubleshooting, debugging, and tweaking every wire and line of code, I've learned more than I ever expected from a simple LCD + ESP8266 + Arduino project.
+>
+> If you're looking at this project and wondering why so many wires, or why certain parts don’t seem to work at first, trust me, I've been there. The path to making this thing work was filled with unexpected challenges, and sometimes it felt like the project was more "complex mess" than "working prototype." But through the chaos came the satisfaction of getting everything to work!
+>
+> So, if you're tackling this project, **prepare for a lot of trial and error**, and don't be discouraged when things don't click instantly. It's all part of the process. The end result is totally worth it, just take it one step at a time and keep at it! <3
+
+---
+
 ## 📦 What It Does
 
 * Connects to your WiFi using an ESP-01s module (via AT commands)
